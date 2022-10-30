@@ -1,8 +1,4 @@
 """
-Complete the PA7_incomplete.py program (posted below) for an infinite interactive loop to process a dictionary.
-The program starts by asking an input file name where the dictionary entries are stored.
-This file will be assumed be present and to contain two items in each line as key and value pairs separated by a comma,
-like the example.txt file (posted below). The file could be possibly empty.
 The program reads the contents of this file into a dictionary, closes the file and presents user with the following menu
 choices in an infinite loop:
 
